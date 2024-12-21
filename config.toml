@@ -1,4 +1,4 @@
-baseURL = "https://broadnad.github.io"
+baseURL = "https://brutenad.pages.dev"
 languageCode = "en-us"
 theme = "poison"
 paginate = 10
